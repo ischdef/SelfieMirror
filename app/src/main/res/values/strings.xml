@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SelfieMirror</string>
+
+    <string name="server_ip">Server IP:</string>
+
+    <string name="status_disabled">Status: Disabled</string>
+    <string name="status_disconnected">Status: Waiting for connection</string>
+    <string name="status_connected">Status: Connected</string>
+    <string name="status_receiving">Status: Receiving picture</string>
+    <string name="status_error">Status: Error</string>
+    <string name="status_interruption">Status: Connection interrupted</string>
+    <string name="status_no_wifi">Status: No network connection</string>
+    <string name="status_received">Status: Picture received</string>
+    <string name="status_invalid_port">Status: Invalid port</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
